@@ -1,0 +1,17 @@
+exp/train_ctl/tri2/decode_test_ctl/scoring_kaldi/best_wer:%WER 9.85 [ 2285 / 23205, 0 ins, 1 del, 2284 sub ] exp/train_ctl/tri2/decode_test_ctl/wer_26_0.0
+exp/train_ctl/tri2/decode_test_dys/scoring_kaldi/best_wer:%WER 68.08 [ 16838 / 24731, 0 ins, 1 del, 16837 sub ] exp/train_ctl/tri2/decode_test_dys/wer_27_0.0
+exp/train_ctl/tri3/decode_test_ctl/scoring_kaldi/best_wer:%WER 8.89 [ 2063 / 23205, 0 ins, 1 del, 2062 sub ] exp/train_ctl/tri3/decode_test_ctl/wer_13_0.0
+exp/train_ctl/tri3/decode_test_dys/scoring_kaldi/best_wer:%WER 57.42 [ 14201 / 24731, 0 ins, 0 del, 14201 sub ] exp/train_ctl/tri3/decode_test_dys/wer_31_0.0
+exp/train_ctl/dnn/decode_test_ctl/scoring_kaldi/best_wer:%WER 7.03 [ 1631 / 23205, 0 ins, 0 del, 1631 sub ] exp/train_ctl/dnn/decode_test_ctl/wer_8_0.0
+exp/train_ctl/dnn/decode_test_dys/scoring_kaldi/best_wer:%WER 57.56 [ 14234 / 24731, 0 ins, 0 del, 14234 sub ] exp/train_ctl/dnn/decode_test_dys/wer_15_0.0
+exp/train_ctl/dnn_fbank/decode_test_ctl/scoring_kaldi/best_wer:%WER 9.27 [ 2152 / 23205, 0 ins, 0 del, 2152 sub ] exp/train_ctl/dnn_fbank/decode_test_ctl/wer_6_0.0
+exp/train_ctl/dnn_fbank/decode_test_dys/scoring_kaldi/best_wer:%WER 70.05 [ 17325 / 24731, 0 ins, 0 del, 17325 sub ] exp/train_ctl/dnn_fbank/decode_test_dys/wer_39_0.0
+
+exp/train_dys/tri2/decode_test_dys/scoring_kaldi/best_wer:%WER 49.44 [ 12228 / 24731, 0 ins, 12 del, 12216 sub ] exp/train_dys/tri2/decode_test_dys/wer_7_0.0
+exp/train_dys/tri3/decode_test_dys/scoring_kaldi/best_wer:%WER 48.60 [ 12019 / 24731, 0 ins, 0 del, 12019 sub ] exp/train_dys/tri3/decode_test_dys/wer_4_0.0
+exp/train_dys/tri3/decode_test_dys.si/scoring_kaldi/best_wer:%WER 52.70 [ 13034 / 24731, 0 ins, 7 del, 13027 sub ] exp/train_dys/tri3/decode_test_dys.si/wer_4_0.0
+exp/train_dys/dnn/decode_test_dys/scoring_kaldi/best_wer:%WER 48.36 [ 11960 / 24731, 0 ins, 0 del, 11960 sub ] exp/train_dys/dnn/decode_test_dys/wer_4_0.0
+exp/train_dys/dnn_fbank/decode_test_dys/scoring_kaldi/best_wer:%WER 51.78 [ 12805 / 24731, 0 ins, 0 del, 12805 sub ] exp/train_dys/dnn_fbank/decode_test_dys/wer_4_0.0
+
+
+
