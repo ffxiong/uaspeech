@@ -9,3 +9,9 @@ Please download the UA-SPEECH corpus from http://www.isle.illinois.edu/sst/data/
 Baseline results:
 Please check the RESULT file.
 If you run the baseline yourself, you will probably obtain different results due to random initialisation and machine-specific issues.
+
+UA-Speech with re-segments:
+Baseline kaldi script when re-segments are used to cleanup UA-Speech speech signals
+This version is located in folder /s5_segment
+
+
