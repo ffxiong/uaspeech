@@ -15,3 +15,9 @@ Baseline kaldi script when re-segments are used to cleanup UA-Speech speech sign
 This version is located in folder /s5_segment
 
 
+Reference:
+
+1) F. Xiong, J. Barker, and H. Christensen, "Deep learning of articulatory-based representations and applications for improving dysarthric speech recognition," in ITG Conference on Speech Communication, Oldenburg, Germany, Oct. 2018
+
+
+
