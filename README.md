@@ -17,7 +17,9 @@ This version is located in folder /s5_segment
 
 Reference:
 
-1) F. Xiong, J. Barker, and H. Christensen, "Deep learning of articulatory-based representations and applications for improving dysarthric speech recognition," in ITG Conference on Speech Communication, Oldenburg, Germany, Oct. 2018
+1) F. Xiong, J. Barker, and H. Christensen, "Phonetic Analysis of Dysarthric Speech Tempo and Applications to Robust Personalised Dysarthric Speech Recognition," in IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Brighton, UK, May 2019
+2) F. Xiong, J. Barker, and H. Christensen, "Deep learning of articulatory-based representations and applications for improving dysarthric speech recognition," in ITG Conference on Speech Communication, Oldenburg, Germany, Oct. 2018
+
 
 
 
