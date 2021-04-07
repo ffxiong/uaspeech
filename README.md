@@ -3,7 +3,7 @@ Copyright 2018  Feifei Xiong, Jon Barker, Heidi Christensen
 
 Apache 2.0
 
-Any questions please contact: Feifei Xiong (f.xiong@sheffield.ac.uk)
+Any questions please contact: Feifei Xiong (f.xiong@sheffield.ac.uk, feifei.xiong@uni-oldenburg.de)
 
 UA-Speech Corpus:
 Baseline kaldi script for UA-SPEECH corpus
