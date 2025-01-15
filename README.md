@@ -7,7 +7,7 @@ Any questions please contact: Feifei Xiong (xff242920@alibaba-inc.com, feifei.xi
 
 UA-Speech Corpus:
 Baseline kaldi script for UA-SPEECH corpus
-Please download the UA-SPEECH corpus from http://www.isle.illinois.edu/sst/data/UASpeech/
+Please request the UA-SPEECH corpus from https://speechtechnology.web.illinois.edu/UASpeech/
 
 Baseline results:
 Please check the RESULT file.
